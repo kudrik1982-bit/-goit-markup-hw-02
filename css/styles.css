@@ -101,6 +101,12 @@ font-weight: 400;
 .button {
 background:  #4d5ae5;
 color: #fff; 
+cursor: pointer;
+border-radius: 4px;
+padding-block: 16px;
+padding-inline: 32px;
+width: 169px;
+height: 56px;
 } 
 .features {
 
@@ -111,7 +117,7 @@ color: #fff;
     text-align: center;
     color: #2e2f42;
 }
-.Portfolio {
+.portfolio {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
@@ -119,7 +125,7 @@ color: #fff;
     text-align: center;
     color: #2e2f42;
 }
-.Team {
+.team {
 font-weight: 700;
   font-size: 36px;
   line-height: 1.11111;
@@ -128,7 +134,7 @@ font-weight: 700;
   color: #2e2f42;
 
 }
-.Prof {
+.prof {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -144,4 +150,20 @@ font-weight: 700;
 .back {
 
   background: #f4f4fd;
+}
+.merits {
+
+  font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.description {
+
+  font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
