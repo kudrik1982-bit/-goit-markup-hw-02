@@ -101,10 +101,10 @@ font-weight: 400;
 .button {
 background:  #4d5ae5;
 color: #fff; 
-font-weight: ;
-line-height: ;
-letter-spacing: ;
-cursor:pointer
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+cursor: pointer ;
 }
 .button:hover,
 .button:focus {
